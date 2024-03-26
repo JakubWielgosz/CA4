@@ -1,25 +1,8 @@
-### What is this?
-This `README.md` file is auto-created for all new projects.
-
-### Why am I here?
-This file opens automatically when you open a project. 
-
-If you do not create Guides, this `README.md` will be what automatically opens for students. You can edit this file by clicking on the pencil icon in the upper right corner.
-
-### How do I get started with Codio?
-Use this [Onboarding Guide](https://codio.com/home/starter-packs/2ae8501b-e5f7-4b07-8e9f-adb155fc6d10) for an interactive tutorial through the main features of Codio. Click on the link, click **Use Pack** and then click **Create** to add it to your projects.
-
-### How do I close this file?
-At the top of your workspace you will see tabs for each open file. Click the x on the right hand side of the tab that says **README.md**.
-![readMeTab](https://global.codio.com/platform/readme.resources/readMeTab.png)
-
-### I expected to see or edit learning materials.
-Select **Tools->Guide->Play** to view the Guide for this project.
-![playGuide](https://global.codio.com/platform/readme.resources/playGuide.png)
-
-Click on the **Open Guides Editor** icon to edit the Guide.
-![guideEdit](https://global.codio.com/platform/readme.resources/guideEdit.png)
-
-### How do I delete this file?
-To delete this `README.md` file, right-click (ctrl-click on a Mac) on the file name in the file list.
-![fileTree](https://global.codio.com/platform/readme.resources/fileTree.png)
+1 - created the CA4 codio workspace
+2 - added the sample code to the website
+3 - running the application on chrome with changing the port to 5000 did not work and displayed the 'Error: Cannot find module '/home/codio/workspace/index.js''
+4 - in chrome it also gave an error '502 Bad Gateway' so trying to find a way to fix this
+5 - fixed step 3 however it is now struggling to find another module 'Error: Cannot find module 'express''
+6 - added complex navigation bar to both chat and index, for some reason the index one works but not the chat one.
+7 - fixed navigation working in chat also
+8 - 
