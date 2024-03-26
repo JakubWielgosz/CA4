@@ -5,4 +5,7 @@
 5 - fixed step 3 however it is now struggling to find another module 'Error: Cannot find module 'express''
 6 - added complex navigation bar to both chat and index, for some reason the index one works but not the chat one.
 7 - fixed navigation working in chat also
-8 - 
+8 - added the about page
+9 - went with a light design of the website
+10 - added a simple logo for the website
+11 - 
